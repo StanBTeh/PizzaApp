@@ -1,2 +1,0 @@
-# PizzaApp
-Exercise using MERN 
